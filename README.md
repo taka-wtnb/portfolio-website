@@ -8,4 +8,4 @@ This website is deployed on Netlify.
 
 [View the Website](https://determined-pasteur-43f5f3.netlify.app/) 
 
-[![image](https://user-images.githubusercontent.com/62856945/92150802-db850900-edd4-11ea-8eb7-8767ece35c02.png)](https://determined-pasteur-43f5f3.netlify.app/)
+[![image](https://user-images.githubusercontent.com/62856945/92283324-828ca200-eeb4-11ea-8e94-5c6cd2f8b639.png)](https://determined-pasteur-43f5f3.netlify.app/)
